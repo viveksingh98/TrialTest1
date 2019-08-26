@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'Vivek-CICD-Learn-Azure'
 
 steps:
 - script: echo Hello, world!
